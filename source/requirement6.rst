@@ -18,7 +18,7 @@ Requirement #6: Genetics @ life
 	    :alt: alternate text
 	    :figclass: align-center
 
-	    Genetic testing can be done to find out about inherited mytations ties to a disease such as cancer, and thus take precautions before a cancer develops.  (Image obtained from https://www.uclahealth.org/cancer-genetics/genetic-testing-for-cancer where a short description is provided to show how genetic testing for cancer works). 
+	    Genetic testing can be done to find out about inherited mutations tied to a disease such as cancer, and thus take precautions before a cancer develops.  This image was obtained from https://www.uclahealth.org/cancer-genetics/genetic-testing-for-cancer where a short description is provided to show how genetic testing for cancer works. 
 
 .. tip:: Additional resources
 

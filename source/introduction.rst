@@ -78,7 +78,7 @@ Other Nova modules in this series
 	
       * -  .. image:: _images/logo-engines_B.png           
               :scale: 65 %                             
-              :target: https://novaengine.readthedocs.io
+              :target: https://novaengines.readthedocs.io
 	       
            .. image:: _images/logo-world_B.png           
               :scale: 65 %                             
