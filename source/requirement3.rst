@@ -14,7 +14,7 @@ C. Grow at least three generations of pea plants and explain the inheritance pat
 
 D. Create a three-dimensional model of DNA and explain how it leads to the production of proteins.
 
-.. figure:: _images//babyeyecolor.jpg
+.. figure:: _images//babyeyecolor.png
    :width: 400px
    :align: center
    :alt: alternate text
