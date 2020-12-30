@@ -10,7 +10,7 @@ Requirement #4: Research
 
    Image describing the Human Genome Project. This image was obtained from https://novaonline.nvcc.edu/eli/evans/his135/events/genome00/genome00.html
    
-:math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Present a report of at least 800 words or 10 minutes (with visual aids) on one of the following opics. Make sure to include the ethical issues involved in your topic. If possible, present our report to your unit or another group in addition to presenting to your counselor.
+:math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Present a report of at least 800 words or 10 minutes (with visual aids) on one of the following topics. Make sure to include the ethical issues involved in your topic. If possible, present our report to your unit or another group in addition to presenting to your counselor.
 
    A. Mendelian inheritance, DNA, RNA, genetics, genomics, sequencing, and Punnett squares
    B. Genetic diseases, personalized medicine, and genetic counseling
